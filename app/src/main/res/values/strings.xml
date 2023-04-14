@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">randomGame</string>
+    <string name="ButtonText">ROLL</string>
+</resources>
